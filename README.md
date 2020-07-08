@@ -27,9 +27,9 @@ to avail the best profits and deals.
 
 ## How to Use
 ##### FARMER
-> Register yourself and get assigned to an unique Farmer-ID.
+> Register yourself and get assigned to an unique Farmer-ID. <br/>
 > Add crops you want to sell via add crop options.
 
 ##### BUYER
-> Register yourself.
+> Register yourself. <br/>
 > Watch available crops and get in touch with farmers.
